@@ -1,1 +1,1 @@
-# CommonUsedAlgorithms
+# CommonlyUsedAlgorithms
