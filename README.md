@@ -26,5 +26,5 @@ $ pip install pandas streamlit matplotlib scikit-learn
 Run the application on `http://localhost:8501/`
 
 ```sh
-$ streamlit run CommonlyUsedAlg.py.py
+$ streamlit run CommonlyUsedAlg.py
 ```
