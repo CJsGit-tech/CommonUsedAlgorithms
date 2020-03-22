@@ -14,8 +14,7 @@ Clone the repository
 
 
 ```sh
-$ git clone https://github.com/CJtheSloth/iris_streamlit_app
-$ cd streamlit_iris
+$ git clone https://github.com/CJtheSloth/CommonUsedAlgorithms
 ```
 
 Install the dependencies
@@ -27,5 +26,5 @@ $ pip install pandas streamlit matplotlib scikit-learn
 Run the application on `http://localhost:8501/`
 
 ```sh
-$ streamlit run iris.py
+$ streamlit run CommonlyUsedAlg.py.py
 ```
